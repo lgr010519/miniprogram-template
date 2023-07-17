@@ -13,6 +13,7 @@
 		"prepare": "husky install"
 	},
 	"dependencies": {
-		"async-validator": "^4.2.5"
+		"async-validator": "^4.2.5",
+		"tdesign-miniprogram": "^1.1.12"
 	}
 }

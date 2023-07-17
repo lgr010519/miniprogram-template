@@ -8,6 +8,9 @@ dependencies:
   async-validator:
     specifier: ^4.2.5
     version: 4.2.5
+  tdesign-miniprogram:
+    specifier: ^1.1.12
+    version: 1.1.12
 
 devDependencies:
   eslint:
@@ -449,6 +452,10 @@ packages:
     engines: {node: '>=4'}
     hasBin: true
     dev: true
+
+  /dayjs@1.11.9:
+    resolution: {integrity: sha512-QvzAURSbQ0pKdIye2txOzNaHmxtUBXerpY0FJsFXUMKbIZeFm5ht1LS/jFsrncjnmtv8HsG0W2g6c0zUjZWmpA==}
+    dev: false
 
   /debug@4.3.4:
     resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
@@ -1764,6 +1771,12 @@ packages:
       string-width: 4.2.3
       strip-ansi: 6.0.1
     dev: true
+
+  /tdesign-miniprogram@1.1.12:
+    resolution: {integrity: sha512-OlYRpFk2lPoqWxzaCfkjV8tTKJ57RkwIxigZMtfwHocKUDwiWOnJ+TNGEgJBHy1/6GmXZHG2j89PXpVHXhJeqw==}
+    dependencies:
+      dayjs: 1.11.9
+    dev: false
 
   /text-table@0.2.0:
     resolution: {integrity: sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw==}

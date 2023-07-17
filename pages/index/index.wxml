@@ -35,4 +35,6 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
+  <t-rate default-value="{{3}}"></t-rate>
+  <t-button theme="primary">我是傻逼</t-button>
 </view>

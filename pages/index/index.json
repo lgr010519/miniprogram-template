@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "t-divider": "tdesign-miniprogram/divider/divider",
+    "t-rate": "tdesign-miniprogram/rate/rate"
+  }
 }

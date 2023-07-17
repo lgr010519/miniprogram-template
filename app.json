@@ -6,6 +6,9 @@
     "navigationBarTitleText": "Weixin",
     "navigationBarTextStyle": "black"
   },
+  "usingComponents": {
+    "t-button": "tdesign-miniprogram/button/button"
+  },
   "style": "v2",
   "lazyCodeLoading": "requiredComponents",
   "sitemapLocation": "sitemap.json"
