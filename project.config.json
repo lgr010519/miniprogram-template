@@ -38,14 +38,12 @@
       "disablePlugins": [],
       "outputPath": ""
     },
-    "useCompilerPlugins": [
-      "sass"
-    ],
+    "useCompilerPlugins": ["sass"],
     "condition": false
   },
   "compileType": "miniprogram",
   "libVersion": "2.19.4",
-  "appid": "wxc5558897f8b226a1",
+  "appid": "wxb9dfe62b0f2eac68",
   "projectname": "miniprogram-92",
   "condition": {},
   "editorSetting": {

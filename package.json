@@ -1,19 +1,19 @@
 {
 	"devDependencies": {
-		"eslint": "^8.45.0",
+		"eslint": "^8.55.0",
 		"husky": "^8.0.3",
-		"lint-staged": "^13.2.3",
-		"prettier": "^3.0.0",
-		"stylelint": "^15.10.1",
+		"lint-staged": "^15.2.0",
+		"prettier": "^3.1.1",
+		"stylelint": "^16.0.1",
 		"stylelint-config-hudochenkov": "^9.0.0",
-		"stylelint-config-standard-scss": "^10.0.0",
-		"stylelint-order": "^6.0.3"
+		"stylelint-config-standard-scss": "^11.1.0",
+		"stylelint-order": "^6.0.4"
 	},
 	"scripts": {
 		"prepare": "husky install"
 	},
 	"dependencies": {
 		"async-validator": "^4.2.5",
-		"tdesign-miniprogram": "^1.1.12"
+		"tdesign-miniprogram": "^1.2.5"
 	}
 }
