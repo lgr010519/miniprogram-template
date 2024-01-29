@@ -10,6 +10,9 @@
     "t-button": "tdesign-miniprogram/button/button"
   },
   "style": "v2",
+  "resolveAlias": {
+    "@/*": "/*"
+  },
   "lazyCodeLoading": "requiredComponents",
   "sitemapLocation": "sitemap.json"
 }
