@@ -38,7 +38,9 @@
       "disablePlugins": [],
       "outputPath": ""
     },
-    "useCompilerPlugins": ["sass"],
+    "useCompilerPlugins": [
+      "sass"
+    ],
     "condition": false
   },
   "compileType": "miniprogram",

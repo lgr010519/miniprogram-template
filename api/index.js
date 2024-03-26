@@ -1,3 +1,4 @@
+import { post } from '@/api/config'
 /**
  * 登录，获取token等
  * @param {*} data
