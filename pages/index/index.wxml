@@ -36,5 +36,4 @@
     <text class="user-motto">{{motto}}</text>
   </view>
   <t-rate default-value="{{3}}"></t-rate>
-  <t-button theme="primary">薛林杰是傻逼</t-button>
 </view>
